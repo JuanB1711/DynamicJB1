@@ -1,2 +1,6 @@
 streamlit
 openpyxl
+pandas
+matplotlib
+frozendict
+
